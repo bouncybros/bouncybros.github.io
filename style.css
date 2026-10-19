@@ -158,3 +158,5 @@ footer.site a { color: var(--dim); }
 }
 .section-title { text-align: center; margin: 34px 0 4px; }
 .center { text-align: center; }
+.bro.mystery h3 { color: var(--dim); letter-spacing: 2px; }
+.bro.mystery .move { color: var(--dim); }
